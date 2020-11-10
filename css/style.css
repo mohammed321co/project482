@@ -1,0 +1,50 @@
+    body{
+        padding-top: 80px;
+        background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(../img/background.png);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .show-cart li {
+        display: flex;
+    }
+    .card {
+        margin-bottom: 20px;
+    }
+    .card-img-top {
+        width: 200px;
+        height: 200px;
+        align-self: center;
+    }
+
+    .login-box  {
+       max-width: revert;
+        float: none;
+        margin: 150px auto;
+    }
+    .login-left{
+        background: rgba(211,211,211,0.5);
+        padding: 30px;
+    }
+    .login-left2{
+        background: rgba(211,211,211,0.5);
+        padding: 30px;
+        border-color: #fff;
+        border: 2px;
+    }
+    .login-left3{
+        background: rgba(211,211,211,0.5);
+        max-width: 700%;
+        padding: 30px;
+        border-color: #fff;
+        border: 30px;
+    }
+    .login-right{
+        background: #fff;
+        padding: 30px;
+    }
+
+    .form-control{
+        background-color: transparent !important;
+
+    }
